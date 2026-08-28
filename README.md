@@ -69,3 +69,13 @@ export class StudentsController {
 }
 ```
 ---
+
+
+
+>### Partialy data update
+><img width="750" height="595" alt="image" src="https://github.com/user-attachments/assets/8a7bbc4d-e703-44b4-9953-ffd90ab468b3" />
+##
+>### MongoDB
+><img width="1599" height="761" alt="image" src="https://github.com/user-attachments/assets/5c18caf3-b24b-4518-adc8-155adf51e763" />
+
+---
